@@ -18,7 +18,7 @@
 ---
 
 ## 📱 Screenshots
-*(Add screenshots of your Home, Crop, and Result screens here)*
+*(Coming soon ...)*
 
 ---
 
