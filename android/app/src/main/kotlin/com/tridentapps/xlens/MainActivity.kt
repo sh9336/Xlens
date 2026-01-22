@@ -1,4 +1,4 @@
-package com.example.ocrscanner
+package com.tridentapps.xlens
 
 import android.content.ContentValues
 import android.os.Build
@@ -12,7 +12,7 @@ import java.io.File
 import java.io.FileOutputStream
 
 class MainActivity: FlutterActivity() {
-    private val CHANNEL = "com.example.ocrscanner/downloads"
+    private val CHANNEL = "com.tridentapps.xlens/downloads"
 
     override fun configureFlutterEngine(@NonNull flutterEngine: FlutterEngine) {
         super.configureFlutterEngine(flutterEngine)

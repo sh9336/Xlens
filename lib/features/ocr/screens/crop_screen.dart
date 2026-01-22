@@ -359,7 +359,7 @@ class _CropScreenState extends State<CropScreen> {
                 ),
                 const SizedBox(height: 8),
                 Text(
-                  'Drag corners to adjust • Pinch to zoom • Pan to move',
+                  'Drag corners to adjust',
                   style: theme.textTheme.bodySmall?.copyWith(
                     color: theme.textTheme.bodySmall?.color?.withOpacity(0.7),
                   ),

@@ -10,7 +10,7 @@ import 'package:device_info_plus/device_info_plus.dart';
 import '../../../../core/utils/file_utils.dart';
 
 class FileService {
-  static const platform = MethodChannel('com.example.ocrscanner/downloads');
+  static const platform = MethodChannel('com.tridentapps.xlens/downloads');
 
   Future<bool> _requestPermission() async {
     if (Platform.isAndroid) {
